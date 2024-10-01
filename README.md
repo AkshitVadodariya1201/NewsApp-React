@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple steps:
    ```sh
    npm install
    ```
-3. **Important:** Before starting the development server, you need to obtain a News API key from [NewsAPI](https://newsapi.org/). Once you have your API key, create a .env.local file in the root directory of the project and add the following line:
+3. **Important:** Before starting the development server, you need to obtain a News API key from [NewsAPI](https://newsapi.org/). Once you have your API key, create a `.env.local` file in the root directory of the project and add the following line:
 
    ```sh
    REACT_APP_NEWS_API=YOUR_API_KEY
